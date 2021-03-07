@@ -7,7 +7,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a Computeer Science & Engineering student at Metropolitan Unversity,Sylhet,Bangladesh.
 - 📚 I’m currently learning compititive programming with c++ & backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software Engineering internship or full time Job. 
-
+- 👯 ⭐️⭐️⭐️⭐️ on Codechef(Higest rating-1820)
 
 <br>
 
@@ -19,7 +19,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <a href="mailto:minhajumid987@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-minhajumid987@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+
 <br>
 
 
