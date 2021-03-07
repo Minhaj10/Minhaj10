@@ -14,9 +14,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/minhajumid"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/umid_101010/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/minhajumid"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Minhaj%20ahmed%20umid-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/umid_101010/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-umid_101010-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:minhajumid987@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-minhajumid987@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
