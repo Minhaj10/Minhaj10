@@ -7,11 +7,22 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a Computeer Science & Engineering student at Metropolitan Unversity,Sylhet,Bangladesh.
 - 📚 I’m currently learning compititive programming with c++ & backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software Engineering internship or full time Job. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/minhajumid) || [Gmail](mailto:minhajumid987@gmail.com)
 
 
 <br>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/minhajumid"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/umid_101010/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [AVS1508](https://github.com/AVS1508)
 <br>
+
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
