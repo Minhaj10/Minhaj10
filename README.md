@@ -33,6 +33,7 @@ I'm a computer science student who is passionate about writing code, solving pro
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
+  ![Code Blocks](https://img.shields.io/badge/-Code%20Blocks-333333?style=flat&logo=code-blocks&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 <br>
