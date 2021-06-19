@@ -7,7 +7,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a Computeer Science & Engineering student at Metropolitan Unversity,Sylhet,Bangladesh.
 - 📚 I’m currently learning compititive programming with c++ & backend web development using NodeJS, ExpressJS and MongoDB.
 - :monocle_face: I’m looking for a software Engineering internship or full time Job. 
-- :black_heart:  ![Specialist](https://img.shields.io/badge/-Code%20Blocks-333333?style=flat&logo=code-blocks&logoColor=007ACC) on Codeforces(Higest rating-1400)
+- :black_heart:  ![Specialist](https://img.shields.io/badge/-Specialist-blue) on Codeforces(Higest rating-1400)
 - :black_heart: ⭐️⭐️⭐️⭐️ on Codechef(Higest rating-1820)
 
 <br>
