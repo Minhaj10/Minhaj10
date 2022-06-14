@@ -4,8 +4,8 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a final year student at Metropolitan Unversity,Sylhet,Bangladesh.Studying computer science.
-- 📚 I dedicated my most of the time in compititive programming. Besides this I have good knowledge in React framework. Currently learning backend web development using NodeJS, ExpressJS and MongoDB.
+- 🔭 I’m currently a fresh graduate from Metropolitan Unversity,Sylhet,Bangladesh.
+- 📚 I dedicated my most of the time of university period in compititive programming. Besides this I have good knowledge in React framework. Currently learning backend web development using NodeJS, ExpressJS and MongoDB.
 - :monocle_face: I’m looking for a software Engineering Job. 
 - :black_heart:  ![Specialist](https://img.shields.io/badge/-Specialist-blue) on Codeforces(Higest rating-1400)
 - :black_heart: ⭐️⭐️⭐️⭐️ on Codechef(Higest rating-1820)
