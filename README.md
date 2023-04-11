@@ -2,13 +2,15 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+Hi there! My name is [Minhaj Ahmed], and I am a computer science student with a passion for writing code, solving problems, automating stuff, and building software. Currently, I am pursuing a master's degree in IT from the Sydney Institute of Higher Education.
 
-- 🔭 I’m currently a fresh graduate from Metropolitan Unversity,Sylhet,Bangladesh.
-- 📚 I dedicated my most of the time of university period in compititive programming. Besides this I have good knowledge in React framework. Currently learning backend web development using NodeJS, ExpressJS and MongoDB.
-- :monocle_face: I’m looking for a software Engineering Job. 
-- :black_heart:  ![Specialist](https://img.shields.io/badge/-Specialist-blue) on Codeforces(Higest rating-1400)
-- :black_heart: ⭐️⭐️⭐️⭐️ on Codechef(Higest rating-1820)
+Throughout my university years, I dedicated most of my time to competitive programming.I'm a specialist on Codeforces, with a highest rating of 1400, and a four-star rating on Codechef, with a highest rating of 1820. These experiences have taught me how to think on my feet, write clean and efficient code, and approach problems in a systematic way.
+
+In addition to my competitive programming experience, I have also developed a solid understanding of the React framework. I have worked on several projects that involve building web applications using React, and I am always looking for ways to improve my skills in this area. Currently, I am learning backend web development using NodeJS. I am excited to apply this knowledge to build more complex web applications that require robust backend systems.
+
+I am currently seeking a software engineering job that will allow me to apply my skills and knowledge in a professional setting. I am looking for opportunities to work with like-minded individuals who are passionate about building high-quality software products that make a difference in people's lives.
+
+If you're interested in collaborating or learning more about my work, please feel free to check out my GitHub profile. I have several repositories that showcase my programming skills, including projects that involve data structures, algorithms, and web development. Thank you for taking the time to read my bio, and I look forward to hearing from you!
 
 <br>
 
