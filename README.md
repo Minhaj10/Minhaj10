@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-Hi there! My name is Minhaj Ahmed, and I am a computer science student with a passion for writing code, solving problems, automating stuff, and building software. Currently, I am pursuing a master's degree in IT from the Sydney Institute of Higher Education.
+My name is Minhaj Ahmed, and I am a computer science student with a passion for writing code, solving problems, automating stuff, and building software. Currently, I am pursuing a master's degree in IT from the Sydney Institute of Higher Education.
 
 Throughout my university years, I dedicated most of my time to competitive programming.I'm a specialist on Codeforces, with a highest rating of 1400, and a four-star rating on Codechef, with a highest rating of 1820. These experiences have taught me how to think on my feet, write clean and efficient code, and approach problems in a systematic way.
 
